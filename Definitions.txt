@@ -1,0 +1,52 @@
+1. Definitions:
+Write descriptions / definitions of these topics. Please, do not copy paste. Use your own
+words and make sure that you understand everything you write.
+a. HTML
+b. CSS
+c. Javascript
+d. HTTP
+e. HTML5
+f. Dynamic HTML (DHTML)
+
+
+a. HTML
+HTML stands for Hyper Text Markup Language. The content is put in the html tag. 
+HTML is a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide web pages.
+HTML has a lot of version, the first one was in 1991, 2.0 in 1995, 3.2 in 1997, 4.01 in 1999 XHTML in 2000 and the newest one, HTML5 in 2014.
+
+b. CSS
+
+CSS stands for Cascading Style Sheet.
+
+CSS is a tool to define the Websites, it is used by several organizations to make a consistence on their websites. CSS should be used parallelly with HTML to design the website.
+
+c. JavaScript
+
+JavaScript is a programming language based on the developing targets which has been available or be defined. Javascript is used widely in website applications and it is supported by all the famous browsers such as Firefox, Chrome, Opera, Internet Explorer (even the mobile browsers).
+
+d. HTTP
+
+HTTP stands for HyperText Transfer Protocol. It is an application protocol for the information distribution system, collaborative and media. This is the foundation of data system for WWW (World Wide Web) since 1990. 
+
+Basicly, HTTP is a protocol communicating on TCP/IP, which is used to distribute the information (HTML, photos, etc...) on WWW. The default port is 80. 
+
+e.HTML5
+
+HTML5 is a newest version of HTML, which is developed since 2014 and it is a replace of the older version HTML4. HTML has a lot of advantages and it is thought to be the future of the Information Technology.
+
+HTML5 depends less on the plugins, and it is available on mostly mobile devices and it provides the consistent experience to all users. HTML also provides a faster speed for the website, using less bandwidth, and the mobile devices battery life will be improved. Additionally, you do not have to think about the updates from plugins such as Flash and Java when HTML5 becomes the main standard.
+
+f. Dynamic HTML (DHTML)
+
+DHTML stands for Dynamic HTML. It is defined by a website which has the combination of HTML, CSS and DOM (Document Object Model).
+
+DHTML is used to create an application on the website: such as creating a website interacting with the user, or creating an assignment for e-learning (online learning).
+
+
+2. Coding conventions:
+
+Write down what is your understanding of the coding conventions. Why they are important to follow? What kind of conventions you are going to use.
+
+Code Convention (CC) is a combination of the regulations to bind the coding progress of a project. It is a set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
+
+CC is important to follow because it creates the consistency and readablity of the project/software, allowing the engineers to understand the new code more quickly and thoroughly. 
